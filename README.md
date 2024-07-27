@@ -5,10 +5,7 @@
 <details>
   <summary>Frontend</summary>
 
-  | Task   | Resources                                                                                     | ETA    |
-|--------|-----------------------------------------------------------------------------------------------|--------|
-| ReactJS| Watch till lecture 15 from <a href='https://youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq&si=BCgTkLXgu1CW9SKC'>here</a> | 7 days |
-| NextJS | <ul><li>What is NextJS -> <a href='https://youtu.be/PiN5Op_Lnmw?si=w7Rp5MDU13A8hQF1'>Video</a></li><li>Server components VS Client Components -> </li></ul> |  |
-| Row 3  | Data 5                                                                                        | Data 6 |
+  <iframe class="clickup-embed clickup-dynamic-height" src="https://doc.clickup.com/9016446651/d/h/8cpr3nv-416/8267c1178595a67" onwheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 </details>
