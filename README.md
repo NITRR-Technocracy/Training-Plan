@@ -24,3 +24,6 @@
 | ExpressJS Course | Follow this [playlist](https://youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW&si=0Vl4-qVHrek60i-N)<br>NOTE:<br>Start from 5th video.<br>6th is optional(depends on you).<br>11th video is optional.<br>Watch till 18th video.<br> | 7 Days |
 
 </details>
+
+
+### Typescript [playlist](https://youtube.com/playlist?list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW&si=YEZ5jDc1pdjp7OUS), watch till lecture 15.
